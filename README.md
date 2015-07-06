@@ -1,3 +1,3 @@
-简单的github客户端示例
-使用SwiftDialog+JosnJoy+SwiftHttp+OauthSwift 
+demo github client use swift
+SwiftDialog+JosnJoy+SwiftHttp+OauthSwift 
 
